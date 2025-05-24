@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import heroImage from "src/Images/photo.jpeg";
+import heroImage from "/src/Images/photo.jpeg";
 import "@fontsource/montserrat"; // Modern Font
 import "@fontsource/playfair-display"; // Elegant Serif Font
 import "@fontsource/dancing-script"; // Calligraphy Font
